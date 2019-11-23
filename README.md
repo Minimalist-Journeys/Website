@@ -1,0 +1,2 @@
+# Website
+Minimalist Journeys website
